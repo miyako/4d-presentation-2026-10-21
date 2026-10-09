@@ -1,5 +1,6 @@
 # 4d-presentation-2026-10-21
 
+- https://github.com/miyako/Webinar_AIWritingTools_4DWPMultiLevelLists
 - https://github.com/miyako/Demo_21_R4_Defer_Command
 - https://github.com/miyako/Demo_21R4_QuotaEntitySets
 - https://github.com/miyako/NetkitNotification_webinar21R4
