@@ -35,7 +35,7 @@
   - 「役職が会計士」と入力
 - Postmanで`entitySetCount`を確認
 - タイムアウト後にクエリを再実行
- 
-#### [メールやカレンダーの即通知](https://github.com/miyako/NetkitNotification_webinar21R4)
 
 #### [deferコマンドでクリーンアップ](https://github.com/miyako/Demo_21_R4_Defer_Command)
+
+#### [メールやカレンダーの即通知](https://github.com/miyako/NetkitNotification_webinar21R4)
