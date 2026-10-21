@@ -1,5 +1,11 @@
 # 4d-presentation-2026-10-21
 
+## スライド
+
+- https://speakerdeck.com/miyako/4d-21-r4
+
+## デモンストレーション
+
 #### [作文ツールとマルチレベルリストの管理](https://github.com/miyako/Webinar_AIWritingTools_4DWPMultiLevelLists)
 
 - インターネット接続がなくても使用できるのは
