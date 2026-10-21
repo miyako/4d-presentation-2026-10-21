@@ -14,11 +14,13 @@
   - フレンドリー
   - プロフェッショナル
   - 簡潔
-- Apple Intelligenceを有効にする
+- [Apple Intelligence](https://www.apple.com/jp/apple-intelligence/)を有効にする
   - Siriの言語とシステム言語を合わせる
   - リソースのダウンロードが完了すると使えるようになる
 
 <img width="723" height="625" alt="" src="https://github.com/user-attachments/assets/16fd96df-0396-4fe3-8d43-8465bc908c34" />
+
+- Googleフォント: [解星デコール](https://fonts.google.com/specimen/Kaisei+Decol)
   
 #### [RESTクオータで過負荷を防止](https://github.com/miyako/Demo_21R4_QuotaEntitySets)
 
