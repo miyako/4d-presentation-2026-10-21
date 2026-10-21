@@ -8,9 +8,12 @@
   - フレンドリー
   - プロフェッショナル
   - 簡潔
+- Apple Intelligenceを有効にする
+  - Siriの言語とシステム言語を合わせる
+  - リソースのダウンロードが完了すると使えるようになる
 
+<img width="723" height="625" alt="" src="https://github.com/user-attachments/assets/16fd96df-0396-4fe3-8d43-8465bc908c34" />
   
-- [deferコマンドでクリーンアップ](https://github.com/miyako/Demo_21_R4_Defer_Command)
 #### [RESTクオータで過負荷を防止](https://github.com/miyako/Demo_21R4_QuotaEntitySets)
 
 - Adminでログイン
@@ -34,3 +37,5 @@
 - タイムアウト後にクエリを再実行
  
 #### [メールやカレンダーの即通知](https://github.com/miyako/NetkitNotification_webinar21R4)
+
+#### [deferコマンドでクリーンアップ](https://github.com/miyako/Demo_21_R4_Defer_Command)
